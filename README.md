@@ -94,6 +94,22 @@ Selected files, shared to read, not to run:
 |---|---|
 | [`src/matchmaking.ts`](src/matchmaking.ts) | The matching rules as pure functions: who accepts whom, which buckets to search, and how candidates are ranked |
 
+## Tools
+
+### Conversation Generator
+
+**[conversation.sintachat.com](https://conversation.sintachat.com)**, made by **aky** ([@akiakyo](https://github.com/akiakyo)).
+
+Builds SintaChat chat screenshots for social media posts. Write the conversation line by line,
+then set the partner's nickname, school and vibe, the bubble skins, reactions and badges, and
+extras like the ended screen or the Loudspeaker. It downloads as an image sized for a phone, a
+story (9:16), a post (4:5) or a square. The preview uses the live chat room's own styles, so every
+image looks exactly like the real app.
+
+<p align="center">
+  <img src="assets/screens/conversation-generator.png" alt="The Conversation Generator: a list of chat lines on top and a phone preview of the SintaChat chat room below" width="720">
+</p>
+
 ## The team
 
 SintaChat is built and maintained by the **SintaChat Team**, Computer Engineering students at the Polytechnic University of the Philippines specializing in Software and Network Engineering.

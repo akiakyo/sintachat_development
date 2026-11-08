@@ -42,3 +42,6 @@ Silkscreen.
 ## The SintaChat Team
 
 Product, design, moderation, content and marketing by the [SintaChat Team](TEAM.md).
+
+The **[Conversation Generator](https://conversation.sintachat.com)**, used to make chat images for
+SintaChat's social posts, was made by **aky** ([@akiakyo](https://github.com/akiakyo)).

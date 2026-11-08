@@ -47,3 +47,8 @@ Dyl · Gabo
 *Building and fixing the thing itself.*
 
 aky · shell *(not active)*
+
+## Tools by the team
+
+- **[Conversation Generator](https://conversation.sintachat.com)** by **aky**: chat images for
+  SintaChat's social posts.
