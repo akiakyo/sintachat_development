@@ -116,6 +116,17 @@ SintaChat is built and maintained by the **SintaChat Team**, Computer Engineerin
 
 Founded by **aky** (Project Lead), with co-founders **Ark**, **Johnxei**, **Dustine**, **Kedu** and **CJ**. [Meet everyone →](TEAM.md)
 
+## Policies
+
+Using SintaChat means agreeing to its policies. The official, current versions live on sintachat.com:
+
+| Policy | What it covers |
+|---|---|
+| [Terms of Service](https://sintachat.com/terms) | The rules for using SintaChat, including the 18+ age requirement |
+| [Privacy Policy](https://sintachat.com/privacy) | What SintaChat collects, why, and how long it's kept |
+| [Community Guidelines](https://sintachat.com/guidelines) | How to treat people in chats and on the Freedom Wall |
+| [Safety Policy](https://sintachat.com/safety) | Staying safe while talking with strangers, and how reporting works |
+
 ## License
 
 © 2026 SintaChat. All rights reserved.
