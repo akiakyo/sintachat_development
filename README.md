@@ -51,6 +51,21 @@ The name comes from the Filipino word *sinta*, someone held dear. SintaChat was 
 | 🛡️ **Safety** | Reporting, blocking, a profanity filter, and a moderation team that reviews reports and the wall. |
 | 💎 **Supporter, Plus & Pro** | Optional plans that keep SintaChat running. They add perks; the free experience is never taken away. |
 
+## Mascots
+
+SintaChat's cat shows up around the app: while pages load, while you wait for a match, when a
+match is found, on the appeals page, and as the Police Cat on a page that doesn't exist.
+
+<p align="center">
+  <img src="assets/mascots.png" alt="SintaChat's cat mascot in five poses: loading, searching, match found, appeal, and the Police Cat" width="100%">
+</p>
+
+Plus supporters can also pick a chat skin, each with its own character:
+
+<p align="center">
+  <img src="assets/plus-skins.png" alt="Plus chat skin characters: cat, capybara, chick, dino, ghost, macaw, octopus, owl and pig" width="100%">
+</p>
+
 ## How it's built
 
 ```mermaid
